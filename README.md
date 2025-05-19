@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Barshan Majumdar</h1>
+<h1 align="center">Hi👋, I'm Barshan</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI%2FML)+Student;AI+Enthusiast+%7C+Photo+Editor;Competitive+Coder+%7C+CodeChatter+Builder" />
 </p>
@@ -8,8 +8,8 @@
 ### 🧑‍🎓 About Me
 
 🎓 I'm currently pursuing **B.Tech in CSE (AI/ML)** at **Brainware University**, Barasat, Kolkata.  
-🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Competitive Coding**.  
-📈 Always grinding to unlock new goals & achievements — both in code and life.
+🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and Competitive Coding.  
+📈 Always **Grinding to unlock new goals & achievements — both in code and life**.
 
 ---
 
@@ -31,18 +31,9 @@
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
-
-### 📈 GitHub Stats
-
-![Barshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barshan-Majumdar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Barshan-Majumdar&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Barshan-Majumdar&theme=radical)
 
 ---
 
