@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Barshan</h1>
+<h1 align="center">AI Enthusiast | Coder | Creative Thinker</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7D745&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Barshan+Majumdar%F0%9F%91%8B;Pursuing+B.Tech+CSE+(AI%2FML)+from+Brainware+University%2C+Barasat%2C+Kolkata;Passionate+about+AI%2C+ML%2C+Competitive+Coding+%26+Unlocking+New+Goals;Built+AI+Resume+Checker+%26+CodeChatter+Projects;Graphic+Designer+%7C+Photo+Editor+%7C+Photoshoot+Lover;Connect+via+LinkedIn+or+Email+%F0%9F%93%A7" />
 </p>
