@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Barshan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI%2FML)+Student;AI+Enthusiast+%7C+Photo+Editor;Competitive+Coder+%7C+CodeChatter+Builder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7D745&center=true&vCenter=true&width=435&lines=B.Tech+CSE+(AI%2FML)+Student;AI+Enthusiast+%7C+Photo+Editor;Grinding+to+unlock+new+goals+&+achievements+-+both+in+code+and+life+%7C+CodeChatter+Builder" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ### 🧑‍🎓 About Me
 
 🎓 I'm currently pursuing **B.Tech in CSE (AI/ML)** at **Brainware University**, Barasat, Kolkata.  
-🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and Competitive Coding.  
+🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Competitive Coding**.  
 📈 Always **Grinding to unlock new goals & achievements — both in code and life**.
 
 ---
