@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Typing Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF0000&width=1000&lines=Hi,+I+am+Barshan,+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+pursuing+B.Tech+in+CSE+(AI/ML)+from+Brainware+University.;Keen+on+exploring+different+devs+%26+tricks.;Love+to+gather+knowledge+%26+do+something+interesting.;If+you're+also+keen+on+these,+scroll+down+to+reach+me+out.)&size=24)
+![Typing Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=FF0000&width=1000&lines=Hi,+I+am+Barshan,+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+pursuing+B.Tech+in+CSE+(AI/ML)+from+Brainware+University.;Keen+on+exploring+different+devs+%26+tricks.;Love+to+gather+knowledge+%26+do+something+interesting.;If+you're+also+keen+on+these,+scroll+down+to+reach+me+out.)
 
 </p>
 
