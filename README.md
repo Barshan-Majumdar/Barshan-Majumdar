@@ -1,9 +1,14 @@
 <### 👋 Hi there  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF5733&width=1000&lines=Hi%2C+I+am+Barshan%2C+a+Machine+Learning+Engineer+%26+Frontend+Dev.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=3BC4FF&width=1000&lines=Currently+persuing+my+B.Tech+in+CSE+AIML+from+Brainware+University.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=1000&lines=I+love+exploring+different+devs+%26+tricks%2C+gathering+knowledge+%26+doing+something+interesting.)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFD700&width=1000&lines=If+you%E2%80%99re+also+keen+on+these%2C+scroll+down+to+reach+me+out.)
+<p align="center">
+
+![Typing SVG 1](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7D745&width=1000&lines=Hi,+I+am+Barshan,+a+Machine+Learning+Engineer+%26+Frontend+Dev.)
+![Typing SVG 2](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=00C4FF&width=1000&lines=Currently+pursuing+B.Tech+in+CSE+(AI/ML)+from+Brainware+University.)
+![Typing SVG 3](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1400&color=FFAA00&width=1000&lines=Keen+on+exploring+different+devs+%26+tricks.)
+![Typing SVG 4](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1600&color=FF66FF&width=1000&lines=Love+to+gather+knowledge+%26+do+something+interesting.)
+![Typing SVG 5](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1800&color=00FF95&width=1000&lines=If+you're+also+keen+on+these,+scroll+down+to+reach+me+out.)
+
+</p>
 
 
 ---
