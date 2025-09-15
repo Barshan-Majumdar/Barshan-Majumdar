@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=F7D745&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Barshan%2C+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+pursuing+B.Tech+in+CSE+(AI%2FML)+from+Brainware+University.;Keen+on+exploring+different+techs+and+tricks.;Love+to+gather+knowledge+%26+do+something+interesting.;If+you're+also+curious%2C+scroll+down+to+reach+me+out." />
-</h1>
+<### 👋 Hi there  
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF5733&multiline=true&width=900&lines=Hi%2C+I+am+Barshan%2C+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+persuing+my+B.Tech+in+CSE+AIML+from+Brainware+University.;I+love+exploring+different+devs+%26+tricks%2C+gathering+knowledge+%26+doing+something+interesting.;If+you%E2%80%99re+also+keen+on+these%2C+scroll+down+to+reach+me+out.)
+
 
 
 ---
