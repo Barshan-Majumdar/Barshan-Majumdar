@@ -45,7 +45,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-[![HackerRank Java 5★](https://img.shields.io/badge/HackerRank-Java-5-stars-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-profile)
+[![HackerRank Java 5★](https://img.shields.io/badge/HackerRank-Java-5-stars-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/barshanmajumdar1)
 
 ---
 
