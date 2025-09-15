@@ -1,8 +1,6 @@
-<h1 align="center">AI Enthusiast | Coder | Creative Thinker</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7D745&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Barshan+Majumdar%F0%9F%91%8B;Pursuing+B.Tech+CSE+(AI%2FML)+from+Brainware+University%2C+Barasat%2C+Kolkata;Passionate+about+AI%2C+ML%2C+Competitive+Coding+%26+Unlocking+New+Goals;Built+AI+Resume+Checker+%26+CodeChatter+Projects;Graphic+Designer+%7C+Photo+Editor+%7C+Photoshoot+Lover;Connect+via+LinkedIn+or+Email+%F0%9F%93%A7" />
-</p>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=F7D745&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Barshan%2C+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+pursuing+B.Tech+in+CSE+(AI%2FML)+from+Brainware+University.;Keen+on+exploring+different+techs+and+tricks.;Love+to+gather+knowledge+%26+do+something+interesting.;If+you're+also+curious%2C+scroll+down+to+reach+me+out." />
+</h1>
 
 
 ---
@@ -17,8 +15,10 @@
 
 ### 🔥 Projects I'm Proud Of
 
-- 💼 **[AI Resume Checker](https://github.com/Barshan-Majumdar/AI-Resume-Checker)** – An intelligent system to evaluate resumes using AI.
-- 💬 **[Project CodeChatter](https://github.com/Barshan-Majumdar/codechat-connect-compete)** – A hybrid platform blending problem-solving with social interaction.
+- 💼 **[AI Resume Checker](https://github.com/Barshan-Majumdar/AI-Resume-Checker)** – An intelligent system to evaluate resumes using AI.  
+- 💬 **[Project CodeChatter](https://github.com/Barshan-Majumdar/codechat-connect-compete)** – A hybrid platform blending problem-solving with social interaction.  
+- 📄 **[Resume Hub](https://github.com/Barshan-Majumdar/ResumeHub.git)** – Personal resume-building platform, ATS-friendly.  
+- 📚 **[LearnSphere](https://github.com/Barshan-Majumdar/LearnSphere.git)** – Personalized AI learning platform.  
 - ⚙️ Currently working on more cool projects — stay tuned!
 
 ---
@@ -35,15 +35,20 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+[![HackerRank Java 5★](https://img.shields.io/badge/HackerRank-Java-5-stars-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-profile)
 
 ---
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/barshan-majumdar)
-- 📧 Email: barshanmajumdar249@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/barshan-majumdar)  
+- 📧 Email: barshanmajumdar249@gmail.com  
 
 ---
 
-<p align="center">⚡ Keep building. Keep learning. Stay real. 💯</p>
+<p align="center">⚡ Keep building. Keep learning.</p>
