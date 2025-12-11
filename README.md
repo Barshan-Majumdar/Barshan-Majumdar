@@ -1,59 +1,191 @@
-<h1>👋 Hi there </h1>  
+<div align="center">
+  <img src="./github header.jpg" width="100%" alt="Header Image" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=5000&pause=2000&color=7AA2F7&center=true&vCenter=true&width=1500&lines=Hi,+I'm+Barshan+Majumdar;Machine+Learning+Engineer+and+Frontend+Developer;Open+Source+Contributor+to+GSSoC+2025;Scroll+Down+To+See+Other+Details!!" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Barshan-Majumdar&style=flat-square&color=blue" alt="visitor counter"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Profile Map (Run Workflow to Generate)" />
+</div>
+
+<br/>
+
+### 👨‍💻 About Me
+```yaml
+# 🚀 Welcome to my profile!
+user: Barshan Majumdar
+role: 
+  - AI & Machine Learning Researcher
+  - Frontend Developer
+  - Tech Content Creator
+
+education:
+  degree: "B.Tech in Computer Science & Engineering (AI)"
+  university: "Brainware University, Barasat"
+
+research_interests:
+  - "AI, ML & Deep Learning"
+  - "Image Processing & Computer Vision"
+  - "Smart Antennas"
+  - "Real-time AI at the Edge"
+
+current_focus:
+  - "Developing real-time AI solutions"
+  - "Working on an AI Resume Checker"
+  - "Building high-performance edge AI systems"
+  - "Growing as an open-source contributor"
+
+achievements:
+  - "Contributor at GirlScript Summer of Code (GSSoC) 2025"
+  - "Researcher in AI-driven Edge Systems"
+  - "Campus Ambassador at Elenxia"
+  - "Student Ambassador at LetsUpgrade"
+
+goals:
+  - "Crack GATE (CSE)"
+  - "Secure M.Tech admission in a top IIT"
+  - "Become a successful developer with strong industry impact"
+  - "Publish impactful AI research papers"
+  - "Launch innovative AI-powered products"
+
+projects:
+  - "AI Resume Checker (JS + TS)"
+  - "CodeChatter – A LeetCode x Facebook hybrid"
+  - "ResumeHub - Create ATS friendly resume with multiple templates"
+  - "StudyQ - Smart student and teacher management system"
+  - "LearnSphere - An fully AI driven learning platform"
+
+hobbies: 
+  - "Photoshoots 📸"
+  - "Bike Riding 🏍️"
+  - "Cars & Automotive Tech 🏎️"
+  - "AI Video Creation & Content Making"
+```
+
+<div align="center">
+  <a href="https://in.linkedin.com/in/barshan-majumdar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:barshanmajumdar249@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://portfolio-barshan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+  </a>
+</div>
+
+<br/>
+## 🎓 Academic Performance (SGPA)
+
+### Average SGPA (1st and 2nd Semesters): **9.70**
+
+| Semester | SGPA |
+| :---: | :---: |
+| **1st** | 10.00 |
+| **2nd** | 9.40 |
+| **3rd** | Prsuing |
+
+
+<br/>
+
+## 💻 My Technology Stack
+
+### 1. Known Languages 🗣️
 
 <p align="center">
-
-![Typing Intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=FF0000&width=1000&lines=Hi,+I+am+Barshan,+a+Machine+Learning+Engineer+%26+Frontend+Dev.;Currently+pursuing+B.Tech+in+CSE+(AI/ML)+from+Brainware+University.;Keen+on+exploring+different+devs+%26+tricks.;Love+to+gather+knowledge+%26+do+something+interesting.;If+you're+also+keen+on+these,+scroll+down+to+reach+me+out.)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
+### 2. Tools & Frameworks 🛠️
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 3. Deployment & Hosting 🚀
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<br/>
+
+### 📈 Coding Activity
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&theme=tokyonight&hide_border=true&area=true" width="100%" />
+</div>
+
+<br/>
 
 
----
+### 📊 Statistics
 
-### 🧑‍🎓 About Me
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
+</div>
 
-🎓 I'm currently pursuing **B.Tech in CSE (AI/ML)** at **Brainware University**, Barasat, Kolkata.  
-🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Competitive Coding**.  
-📈 Always **Grinding to unlock new goals & achievements — both in code and life**.
-
----
-
-### 🔥 Projects I'm Proud Of
-
-- 💼 **[AI Resume Checker](https://github.com/Barshan-Majumdar/AI-Resume-Checker)** – An intelligent system to evaluate resumes using AI.  
-- 💬 **[Project CodeChatter](https://github.com/Barshan-Majumdar/codechat-connect-compete)** – A hybrid platform blending problem-solving with social interaction.  
-- 📄 **[Resume Hub](https://github.com/Barshan-Majumdar/ResumeHub.git)** – Personal resume-building platform, ATS-friendly.  
-- 📚 **[LearnSphere](https://github.com/Barshan-Majumdar/LearnSphere.git)** – Personalized AI learning platform.  
-- ⚙️ Currently working on more cool projects — stay tuned!
-
----
-
-### 🎨 Hobbies & Skills
-
-📷 **Graphic Designing** & **Photo Editing** (yup, I make my own vibes)  
-🏍️ Love **photoshoots**, **bike rides**, and discovering aesthetics in tech & nature.
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br/>
 
 
-[![HackerRank Java 5-star](https://img.shields.io/badge/HackerRank-Java%205-brightgreen?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/barshanmajumdar1)
+[![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
----
+### 🏆 Featured Projects
+| Project | Description | Stack | Repo Links | Live |
+| :--- | :--- | :--- | :--- | :--- |
+| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Sorry its ont live |
+| **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) |
+| **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) |
+| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Sorry its not live |
+| **Resume Checker** | A tool uses keywords to match your resume with job description | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
 
-### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/barshan-majumdar)  
-- 📧 Email: barshanmajumdar249@gmail.com  
+<br/>
 
----
+### 🐍 Contribution History
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<p align="center">⚡ Keep building. Keep learning.</p>
+<br/>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="mailto:barshanmajumdar249@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://in.linkedin.com/in/barshan-majumdar">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-barshan.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=heroku&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
