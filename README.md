@@ -142,9 +142,9 @@ hobbies:
 
 ### 📊 Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
-</div>
+</div> -->
 
 <br/>
 
