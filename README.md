@@ -160,8 +160,9 @@ hobbies:
 | **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) |
 | **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) |
 | **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Sorry its not live |
-| **Resume Checker** | A tool uses keywords to match your resume with job description | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
-
+| **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
+| **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) |
+| **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) |
 
 <br/>
 
