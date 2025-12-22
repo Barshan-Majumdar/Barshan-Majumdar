@@ -64,6 +64,8 @@ projects:
   - "ResumeHub - Create ATS friendly resume with multiple templates"
   - "StudyQ - Smart student and teacher management system"
   - "LearnSphere - An fully AI driven learning platform"
+  - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking"
+  - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
 
 hobbies: 
   - "Photoshoots 📸"
