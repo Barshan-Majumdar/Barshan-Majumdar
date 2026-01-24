@@ -66,12 +66,14 @@ projects:
   - "LearnSphere - An fully AI driven learning platform"
   - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking"
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
+  - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
 
 hobbies: 
   - "Photoshoots 📸"
   - "Bike Riding 🏍️"
   - "Cars & Automotive Tech 🏎️"
   - "AI Video Creation & Content Making"
+  - "Reading Books"
 ```
 
 <div align="center">
@@ -165,6 +167,7 @@ hobbies:
 | **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
 | **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) |
 | **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) |
+| **GeetaGPT** | GeetaGPT is a modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta. Users can converse with an AI persona of Lord Krishna to find solace, clarity, and answers to life's dilemmas. | `HTML` `CSS` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/GeetaGpt.git) | [GeetaGPT](https://geeta-gpt-inky.vercel.app/) |
 
 <br/>
 
