@@ -64,7 +64,7 @@ projects:
   - "ResumeHub - Create ATS friendly resume with multiple templates"
   - "StudyQ - Smart student and teacher management system"
   - "LearnSphere - An fully AI driven learning platform"
-  - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking"
+  - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and their progress tracking"
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
   - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
 
@@ -119,6 +119,7 @@ hobbies:
 ### 2. Tools & Frameworks 🛠️
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" alt="Scikit-Learn" />
@@ -126,6 +127,8 @@ hobbies:
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/tweakcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="tweakcn" />
 </p>
 
 ### 3. Deployment & Hosting 🚀
