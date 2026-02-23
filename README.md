@@ -64,7 +64,7 @@ projects:
   - "ResumeHub - Create ATS friendly resume with multiple templates"
   - "StudyQ - Smart student and teacher management system"
   - "LearnSphere - An fully AI driven learning platform"
-  - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and their progress tracking"
+  - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and progress tracking"
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
   - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
 
@@ -116,7 +116,7 @@ hobbies:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-### 2. Tools & Frameworks 🛠️
+### 2. Tools, Libraries & Frameworks 🛠️
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
