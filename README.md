@@ -129,6 +129,8 @@ hobbies:
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/tweakcn-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="tweakcn" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  
 </p>
 
 ### 3. Deployment & Hosting 🚀
