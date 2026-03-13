@@ -177,6 +177,7 @@ hobbies:
 | **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) |
 | **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) |
 | **GeetaGPT** | GeetaGPT is a modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta. Users can converse with an AI persona of Lord Krishna to find solace, clarity, and answers to life's dilemmas. | `HTML` `CSS` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/GeetaGpt.git) | [GeetaGPT](https://geeta-gpt-inky.vercel.app/) |
+| **Avaya** | A safety-first navigation system that prioritizes secure travel over the shortest distance. | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` `NeonDB` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [Avaya](https://avaya-main.vercel.app/) |
 
 <br/>
 
