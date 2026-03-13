@@ -67,6 +67,7 @@ projects:
   - "Kisan Mitra - A AIML based platform which can help farmers to their crop predictions, daily tasks and progress tracking"
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
   - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
+  - "Avaya" - A safety-first navigation system that prioritizes secure travel over the shortest distance.
 
 hobbies: 
   - "Photoshoots 📸"
