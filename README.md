@@ -26,8 +26,8 @@
 user: Barshan Majumdar
 role: 
   - AI & Machine Learning Researcher
-  - Frontend Developer
-  - Tech Content Creator
+  - Machine Learning Engineer
+  - Full Stack Developer
 
 education:
   degree: "B.Tech in Computer Science & Engineering (AI)"
