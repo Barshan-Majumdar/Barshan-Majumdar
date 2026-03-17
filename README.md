@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 ```yaml
-# 🚀 Welcome to my profile!
+🚀 Welcome to my profile!
 user: Barshan Majumdar
 role: 
   - AI & Machine Learning Researcher
@@ -90,6 +90,7 @@ hobbies:
 </div>
 
 <br/>
+
 ## 🎓 Academic Performance (SGPA)
 
 ### Average SGPA (1st, 2nd and 3rd Semesters): **9.67**
