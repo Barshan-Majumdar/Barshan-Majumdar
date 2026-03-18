@@ -81,7 +81,7 @@ hobbies:
   <a href="https://in.linkedin.com/in/barshan-majumdar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:barshanmajumdar249@gmail.com" target="_blank">
+  <a href="mailto:connect.barshan.majumdar@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://portfolio-barshan.vercel.app/" target="_blank">
@@ -196,7 +196,7 @@ hobbies:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:barshanmajumdar249@gmail.com">
+  <a href="mailto:connect.barshan.majumdar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://in.linkedin.com/in/barshan-majumdar">
