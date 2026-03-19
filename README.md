@@ -148,7 +148,7 @@ hobbies:
 
 ### 📈 Coding Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=99" width="100%" />
 </div>
 
 <br/>
