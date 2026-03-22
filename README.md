@@ -20,7 +20,11 @@
 
 <br/>
 
-### 👨‍💻 About Me
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="40" align="center" />
+  &nbsp;<b>About Me</b>
+</h2>
+
 ```yaml
 🚀 Welcome to my profile!
 user: Barshan Majumdar
@@ -91,7 +95,10 @@ hobbies:
 
 <br/>
 
-## 🎓 Academic Performance (SGPA)
+<h2 align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="45" align="center" />
+  &nbsp;<b>Academic Performance (SGPA)</b>
+</h2>
 
 ### Average SGPA (1st, 2nd and 3rd Semesters): **9.67**
 
@@ -104,9 +111,16 @@ hobbies:
 
 <br/>
 
-## 💻 My Technology Stack
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="42" height="42" align="center">
+  &nbsp;<b>My Technology Stack</b>
+</h2>
 
-### 1. Known Languages 🗣️
+
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5e3_fe0f/512.gif" alt="🗣" width="35" height="35" align="center">
+  &nbsp;<b>1. Known Languages</b>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -118,7 +132,10 @@ hobbies:
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 </p>
 
-### 2. Tools, Libraries & Frameworks 🛠️
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" alt="🛠" width="35" height="35" align="center">
+  &nbsp;<b>2. Tools, Libraries & Frameworks</b>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -136,7 +153,10 @@ hobbies:
   
 </p>
 
-### 3. Deployment & Hosting 🚀
+<h3 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="35" height="35" align="center">
+  &nbsp;<b>3. Deployment & Hosting</b>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -146,15 +166,21 @@ hobbies:
 
 <br/>
 
-### 📈 Coding Activity
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="35" height="35" align="center">
+  &nbsp;<b>Coding Activity</b>
+</h2>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=99" width="100%" />
 </div>
 
 <br/>
 
-
-### 📊 Statistics
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="35" height="35" align="center">
+  &nbsp;<b>Statistics</b>
+</h2>
 
 <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
@@ -167,7 +193,11 @@ hobbies:
 [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### 🏆 Featured Projects
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" height="35" align="center">
+  &nbsp;<b>Featured Projects</b>
+</h2>
+
 | Project | Description | Stack | Repo Links | Live |
 | :--- | :--- | :--- | :--- | :--- |
 | **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Sorry its ont live |
@@ -182,7 +212,11 @@ hobbies:
 
 <br/>
 
-### 🐍 Contribution History
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f40d/512.gif" alt="🐍" width="35" height="35" align="center">
+  &nbsp;<b>Contribution History</b>
+</h2>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/output/github-contribution-grid-snake.svg">
@@ -193,7 +227,10 @@ hobbies:
 
 <br/>
 
-## 📫 Connect With Me
+<h2>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="45" height="45" align="center">
+  <b>Connect With Me</b>
+</h2>
 
 <div align="center">
   <a href="mailto:connect.barshan.majumdar@gmail.com">
@@ -205,4 +242,27 @@ hobbies:
   <a href="https://portfolio-barshan.vercel.app/">
     <img src="https://img.shields.io/badge/-Portfolio-FF7700?style=for-the-badge&logo=heroku&logoColor=white" alt="Portfolio" />
   </a>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="100" height="100">
+  
+  <br />
+  
+  <h2><b>Thank you for exploring my journey!</b></h2>
+  
+  <br />
+
+  <p align="center">
+    <i>"Dream is not that which you see while sleeping, it is something that does not let you sleep."</i>
+    <br />
+    <b>— Dr. APJ Abdul Kalam</b>
+  </p>
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
