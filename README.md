@@ -50,6 +50,7 @@ current_focus:
   - "Growing as an open-source contributor"
 
 achievements:
+  - "Winners @Signifiya 26"
   - "Contributor at GirlScript Summer of Code (GSSoC) 2025"
   - "Researcher in AI-driven Edge Systems"
   - "Campus Ambassador at Elenxia"
