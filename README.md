@@ -50,6 +50,7 @@ current_focus:
   - "Growing as an open-source contributor"
 
 achievements:
+  - "4th position at HackStorm 2.26:
   - "Winners @Signifiya 26"
   - "Contributor at GirlScript Summer of Code (GSSoC) 2025"
   - "Researcher in AI-driven Edge Systems"
@@ -73,6 +74,7 @@ projects:
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
   - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
   - "Avaya" - A safety-first navigation system that prioritizes secure travel over the shortest distance.
+  - "ShieldX - A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window."
 
 hobbies: 
   - "Photoshoots 📸"
@@ -201,15 +203,16 @@ hobbies:
 
 | Project | Description | Stack | Repo Links | Live |
 | :--- | :--- | :--- | :--- | :--- |
-| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Sorry its ont live |
+| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Coming Soon... |
 | **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) |
 | **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) |
-| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Sorry its not live |
-| **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Sorry its not live |
+| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Coming Soon... |
+| **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Coming Soon... |
 | **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) |
 | **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) |
 | **GeetaGPT** | GeetaGPT is a modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta. Users can converse with an AI persona of Lord Krishna to find solace, clarity, and answers to life's dilemmas. | `HTML` `CSS` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/GeetaGpt.git) | [GeetaGPT](https://geeta-gpt-inky.vercel.app/) |
 | **Avaya** | A safety-first navigation system that prioritizes secure travel over the shortest distance. | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` `NeonDB` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [Avaya](https://avaya-main.vercel.app/) |
+| **ShieldX** | A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window. | `React` `Tailwind` `TypeScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/ShieldX.git) | Coming Soon... |
 
 <br/>
 
