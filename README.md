@@ -74,7 +74,11 @@ projects:
   - "Learn Flow - A comprehensive local-first ed-tech platform designed to democratize access to personalized education"
   - "GeetaGPT - A modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta."
   - "Avaya" - A safety-first navigation system that prioritizes secure travel over the shortest distance.
-  - "ShieldX - A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window."
+  - "ShieldX - A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with
+              lockdown window."
+  - "AttendX - A plaform where you can register yourself by scanning your face and it helps you to mark attendance depending
+              on the face present, it can be benifitial for Universities to upgrade their infra and technology of taking
+              attendance."
 
 hobbies: 
   - "Photoshoots 📸"
