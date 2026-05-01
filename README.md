@@ -220,7 +220,7 @@ hobbies:
 | **Avaya** | A safety-first navigation system that prioritizes secure travel over the shortest distance. | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` `NeonDB` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [Avaya](https://avaya-main.vercel.app/) |
 | **ShieldX** | A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window. | `React` `Tailwind` `TypeScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/ShieldX.git) | Coming Soon... |
 | **AttendX** | A plaform where you can register yourself by scanning your face and it helps you to mark attendance depending on the face present, it can be benifitial for Universities to upgrade their infra and technology of taking attendance. | `React` `Tailwind` `JavaScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/AttendX.git) | [AttendX](https://face-attendance-x.vercel.app/) |
-| **SevaSetu** | A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources, and emergency responders through a single, easy-to-use interface. | `React` `Tailwind` `JavaScript` `Leaflet` `MapBox` `CLIP` `Python` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [SevaSetu](https://seva-setu-ai.vercel.app/) |
+| **SevaSetu** | A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources, and emergency responders through a single, easy-to-use interface. | `React` `NodeJS` `Tailwind` `JavaScript` `Leaflet` `MapBox` `CLIP` `Python` `PostGIS` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [SevaSetu](https://seva-setu-ai.vercel.app/) |
 
 
 <br/>
