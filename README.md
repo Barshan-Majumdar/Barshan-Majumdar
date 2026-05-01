@@ -196,11 +196,30 @@ hobbies:
 </div> -->
 
 <br/>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Barshan-Majumdar&theme=darkhub&no-frame=true&row=1&column=3&title=Commits,PullRequest,Repositories" />
+  </a>
+</p>
 
-[![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" height="35" align="center">
