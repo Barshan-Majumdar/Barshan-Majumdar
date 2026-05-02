@@ -254,8 +254,7 @@ hobbies:
 
 </div>
 
-> [!IMPORTANT]
-> **Core Contribution:** Developed a **"Data-Model-System"** optimization triad for Edge AI. This framework enables enterprise-grade inference on resource-constrained devices (**NVIDIA Jetson**, **Google Edge TPU**) using high-precision quantization and neural pruning techniques.
+> **RESEARCH OVERVIEW** > This research addresses the critical bottlenecks of cloud-based AI by pioneering a decentralized framework for **Edge-level intelligence**. By introducing an **"Optimization Triad"** that balances Data, Model, and System constraints, the work demonstrates how to deploy enterprise-grade models on resource-limited hardware like **NVIDIA Jetson** and **Google Edge TPU**. Through the use of **quantization, neural pruning, and knowledge distillation**, this chapter provides a roadmap for achieving low-latency, privacy-centric decision-making directly at the data source, eliminating the need for centralized processing.
 
 <p align="center">
   <a href="https://link.springer.com/chapter/10.1007/978-3-032-16711-8_2">
