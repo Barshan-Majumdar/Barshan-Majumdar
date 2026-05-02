@@ -241,6 +241,33 @@ hobbies:
 | **AttendX** | A plaform where you can register yourself by scanning your face and it helps you to mark attendance depending on the face present, it can be benifitial for Universities to upgrade their infra and technology of taking attendance. | `React` `Tailwind` `JavaScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/AttendX.git) | [AttendX](https://face-attendance-x.vercel.app/) |
 | **SevaSetu** | A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources, and emergency responders through a single, easy-to-use interface. | `React` `NodeJS` `Tailwind` `JavaScript` `Leaflet` `MapBox` `CLIP` `Python` `PostGIS` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [SevaSetu](https://seva-setu-ai.vercel.app/) |
 
+<br/>
+
+<div align="center">
+
+## Featured Publication
+
+[![Published - Springer Nature](https://img.shields.io/badge/Published-Springer_Nature-007ACC?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-16711-8_2)
+[![Status - Peer-Reviewed](https://img.shields.io/badge/Status-Peer--Reviewed-4CAF50?style=for-the-badge&logo=checkmarck&logoColor=white)](https://link.springer.com/chapter/10.1007/978-3-032-16711-8_2)
+
+### **"AI-Enhanced Edge Systems for Immediate Decision Making"** *AI at Edge: Transforming Edge Networks with Computational Intelligence (2026), Chapter 2*
+
+</div>
+
+> [!IMPORTANT]
+> **Core Contribution:** Developed a **"Data-Model-System"** optimization triad for Edge AI. This framework enables enterprise-grade inference on resource-constrained devices (**NVIDIA Jetson**, **Google Edge TPU**) using high-precision quantization and neural pruning techniques.
+
+<p align="center">
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-16711-8_2">
+    <img src="https://img.shields.io/badge/Read%20Full%20Chapter-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Read Full Chapter">
+  </a>
+  &nbsp;
+  <a href="https://link.springer.com/chapter/10.1007/978-3-032-16711-8_2">
+    <img src="https://img.shields.io/badge/View%20Abstract-E11E22?style=for-the-badge&logo=springer&logoColor=white" alt="View Abstract">
+  </a>
+</p>
+
+---
 
 <br/>
 
