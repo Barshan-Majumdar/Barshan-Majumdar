@@ -243,6 +243,34 @@ hobbies:
 
 <br/>
 
+<h2 align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="35" height="35" align="center">
+  &nbsp;<b>Newly Launched — Open for Contributions 🤝</b>
+</h2>
+
+> These are my recently launched projects that are **actively welcoming open-source contributions**!
+> Feel free to explore, fork, open issues, or submit pull requests. Every contribution — big or small — is appreciated! 🚀
+
+| Project | Description | Stack | Repo | Contribute |
+| :--- | :--- | :--- | :--- | :--- |
+| **SevaSetu** | Unified humanitarian platform connecting people in crisis with verified aid & emergency responders | `React` `NodeJS` `Python` `PostGIS` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/seva-setu/issues) |
+| **ShieldX** | Secure exam cheating detector with posture/voice monitoring & device lockdown | `React` `Tailwind` `TypeScript` `FastAPI` `OpenCV` `YOLO` | [Repo](https://github.com/Barshan-Majumdar/ShieldX.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/ShieldX/issues) |
+| **AttendX** | Face-scan based attendance system for universities | `React` `Tailwind` `JavaScript` `FastAPI` `OpenCV` `YOLO` | [Repo](https://github.com/Barshan-Majumdar/AttendX.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/AttendX/issues) |
+| **Avaya** | Safety-first navigation system prioritizing secure travel over shortest distance | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/avaya/issues) |
+| **LearnSphere** | Fully AI-driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/LearnSphere/issues) |
+| **CodeChatter** | Social + coding practice hybrid platform for students & developers | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/Project_CodeChatter/issues) |
+| **Kisan Mitra** | AI/ML platform for farmers: crop predictions, daily tasks & progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [![Contribute](https://img.shields.io/badge/Contribute-Now-brightgreen?style=flat-square&logo=github)](https://github.com/Barshan-Majumdar/Kisan-Mitra/issues) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge&logo=git&logoColor=white" alt="Contributions Welcome" />
+</p>
+
+---
+
+<br/>
+
 <div align="center">
 
 ## Featured Publication
