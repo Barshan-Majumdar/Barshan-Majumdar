@@ -109,13 +109,14 @@ hobbies:
   &nbsp;<b>Academic Performance (SGPA)</b>
 </h2>
 
-### Average SGPA (1st, 2nd and 3rd Semesters): **9.67**
+### Average SGPA (1st, 2nd ,3rd & 4th Semesters): **9.65**
 
 | Semester | SGPA |
 | :---: | :---: |
 | **1st** | 10.00 |
 | **2nd** | 9.40 |
 | **3rd** | 9.61 |
+| **4th** | 9.60 |
 
 
 <br/>
