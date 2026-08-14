@@ -194,57 +194,56 @@ hobbies:
   &nbsp;<b>Statistics</b>
 </h2>
 
-<!-- <div align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
-</div> -->
+</div>
 
 <br/>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/radical/3-stats.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+    <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/radical/4-productive-time.svg" />
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Barshan-Majumdar&theme=darkhub&no-frame=true&row=1&column=3&title=Commits,PullRequest,Repositories" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Barshan-Majumdar&theme=darkhub&no-frame=true&row=1&column=3&hide=Stars,Followers,Issues,Reviews,MultipleLanguages" alt="Barshan-Majumdar GitHub Trophies" />
   </a>
-</p>
-
+</p> -->
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" alt="🏆" width="35" height="35" align="center">
   &nbsp;<b>Featured Projects</b>
 </h2>
 
-| Project | Description | Stack | Repo Links | Live |
-| :--- | :--- | :--- | :--- | :--- |
-| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Coming Soon... |
-| **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) |
-| **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) |
-| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Coming Soon... |
-| **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Coming Soon... |
-| **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) |
-| **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) |
-| **GeetaGPT** | GeetaGPT is a modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta. Users can converse with an AI persona of Lord Krishna to find solace, clarity, and answers to life's dilemmas. | `HTML` `CSS` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/GeetaGpt.git) | [GeetaGPT](https://geeta-gpt-inky.vercel.app/) |
-| **Avaya** | A safety-first navigation system that prioritizes secure travel over the shortest distance. | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` `NeonDB` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [Avaya](https://avaya-main.vercel.app/) |
-| **ShieldX** | A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window. | `React` `Tailwind` `TypeScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/ShieldX.git) | Coming Soon... |
-| **AttendX** | A plaform where you can register yourself by scanning your face and it helps you to mark attendance depending on the face present, it can be benifitial for Universities to upgrade their infra and technology of taking attendance. | `React` `Tailwind` `JavaScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/AttendX.git) | [AttendX](https://face-attendance-x.vercel.app/) |
-| **SevaSetu** | A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources, and emergency responders through a single, easy-to-use interface. | `React` `NodeJS` `Tailwind` `JavaScript` `Leaflet` `MapBox` `CLIP` `Python` `PostGIS` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [SevaSetu](https://seva-setu-ai.vercel.app/) |
-| **AeroGuard** | AeroGuard is an enterprise-grade, intelligent aircraft inspection platform. It replaces manual, error-prone borescope video reviews with automated defect detection, interactive 3D digital twin visualization, and compliance-ready reporting. | `Next` `Tailwind` `Framer Motion` `FastAPI` `Ultralytcs` `Neon` `Drizzle` `Cloudflare R2` `Nginx` | [Repo](https://github.com/Barshan-Majumdar/AeroGuard.git) | [AeroGuard](https://aero-guard-plane.vercel.app/) |
-| **Crew** | Next-Generation HR, Payroll & Workforce Management System. An enterprise-grade, full-stack platform designed to bridge the gap between employee management, real-time tracking, and automated financial processing. | `React` `Tailwind` `Socket IO` `JWT` `Prisma` `ImageKit` | [Repo](https://github.com/Barshan-Majumdar/Team-Kratos.git) | [Crew](https://hrms-crew.vercel.app/) |
+| Project | Description | Stack | Repo Links | Live | Preview |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **LearnSphere** | A totally AI driven online learning platform | `React` `Node` | [Repo](https://github.com/Barshan-Majumdar/LearnSphere.git) | Coming Soon... | 🚧 |
+| **ResumeHub** | All in one platform to design ATS friendly resume  | `TypeScript` `CSS` | [Repo](https://github.com/Barshan-Majumdar/ResumeHub.git) | [ResumeHub](https://resume-hub-barshan-ttm.vercel.app/) | <a href="https://resume-hub-barshan-ttm.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://resume-hub-barshan-ttm.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **StudyQ** | A student and teacher management system for study metarials | `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/StudyQ.git) | [StudyQ](https://study-q.vercel.app/) | <a href="https://study-q.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://study-q.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **CodeChatter** | A mixed platform that includes social and practical practices for students & coders | `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Project_CodeChatter.git) | Coming Soon... | 🚧 |
+| **Resume Checker** | A tool uses keywords to match your resume with job description | `Python` `CSS`  `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/AI-Resume-Checker.git) | Coming Soon... | 🚧 |
+| **Kisan Mitra** | A AIML based platform which can help farmers to their crop predictions, daily tasks and also their progress tracking | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Kisan-Mitra.git) | [Kisan Mitra](https://kisan-mitra-gamma.vercel.app/login) | <a href="https://kisan-mitra-gamma.vercel.app/login?v=2"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://kisan-mitra-gamma.vercel.app/login?v=2" width="120" alt="Preview"/></a> |
+| **Learn Flow** | A comprehensive local-first ed-tech platform designed to democratize access to personalized education | `HTML` `CSS` `JavaScript` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/Learn-Flow.git) | [Learn Flow](https://learn-flow-mu.vercel.app/) | <a href="https://learn-flow-mu.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://learn-flow-mu.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **GeetaGPT** | GeetaGPT is a modern, spiritual AI companion that offers guidance and wisdom inspired by the Bhagavad Geeta. Users can converse with an AI persona of Lord Krishna to find solace, clarity, and answers to life's dilemmas. | `HTML` `CSS` `TypeScript` | [Repo](https://github.com/Barshan-Majumdar/GeetaGpt.git) | [GeetaGPT](https://geeta-gpt-inky.vercel.app/) | <a href="https://geeta-gpt-inky.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://geeta-gpt-inky.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **Avaya** | A safety-first navigation system that prioritizes secure travel over the shortest distance. | `React` `Tailwind` `TypeScript` `PostgreSQL` `Leaflet` `NeonDB` | [Repo](https://github.com/Barshan-Majumdar/avaya.git) | [Avaya](https://avaya-main.vercel.app/) | <a href="https://avaya-main.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://avaya-main.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **ShieldX** | A secure exam cheating detector, along with the eco of your posture, voice and full controls your device with lockdown window. | `React` `Tailwind` `TypeScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/ShieldX.git) | Coming Soon... | 🚧 |
+| **AttendX** | A plaform where you can register yourself by scanning your face and it helps you to mark attendance depending on the face present, it can be benifitial for Universities to upgrade their infra and technology of taking attendance. | `React` `Tailwind` `JavaScript` `FastAPI` `OpenCV` `YOLO` `Python` | [Repo](https://github.com/Barshan-Majumdar/AttendX.git) | [AttendX](https://face-attendance-x.vercel.app/) | <a href="https://face-attendance-x.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://face-attendance-x.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **SevaSetu** | A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources, and emergency responders through a single, easy-to-use interface. | `React` `NodeJS` `Tailwind` `JavaScript` `Leaflet` `MapBox` `CLIP` `Python` `PostGIS` | [Repo](https://github.com/Barshan-Majumdar/seva-setu.git) | [SevaSetu](https://seva-setu-ai.vercel.app/) | <a href="https://seva-setu-ai.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://seva-setu-ai.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **AeroGuard** | AeroGuard is an enterprise-grade, intelligent aircraft inspection platform. It replaces manual, error-prone borescope video reviews with automated defect detection, interactive 3D digital twin visualization, and compliance-ready reporting. | `Next` `Tailwind` `Framer Motion` `FastAPI` `Ultralytcs` `Neon` `Drizzle` `Cloudflare R2` `Nginx` | [Repo](https://github.com/Barshan-Majumdar/AeroGuard.git) | [AeroGuard](https://aero-guard-plane.vercel.app/) | <a href="https://aero-guard-plane.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://aero-guard-plane.vercel.app/?v=2" width="120" alt="Preview"/></a> |
+| **Crew** | Next-Generation HR, Payroll & Workforce Management System. An enterprise-grade, full-stack platform designed to bridge the gap between employee management, real-time tracking, and automated financial processing. | `React` `Tailwind` `Socket IO` `JWT` `Prisma` `ImageKit` | [Repo](https://github.com/Barshan-Majumdar/Team-Kratos.git) | [Crew](https://hrms-crew.vercel.app/) | <a href="https://hrms-crew.vercel.app/"><img src="https://image.thum.io/get/width/250/crop/500/wait/10/https://hrms-crew.vercel.app/?v=2" width="120" alt="Preview"/></a> |
 
 <br/>
 
