@@ -92,13 +92,16 @@ hobbies:
 
 <div align="center">
   <a href="https://in.linkedin.com/in/barshan-majumdar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:connect.barshan.majumdar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   <a href="https://portfolio-barshan.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=kofi&label=&color=ff5e5b&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+  </a>
+  <a href="./Barshan-Majumdar.pdf" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Resume&logo=googledocs&label=&color=555555&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="resume logo" />
   </a>
 </div>
 
