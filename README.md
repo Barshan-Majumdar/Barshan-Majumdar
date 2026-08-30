@@ -165,6 +165,9 @@ hobbies:
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  
 </p>
 
 <h3 align="left">
@@ -179,7 +182,7 @@ hobbies:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS" />
 </p>
 
-<br/>
+<!-- <br/>
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c8/512.gif" alt="📈" width="35" height="35" align="center">
@@ -188,7 +191,7 @@ hobbies:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=99" width="100%" />
-</div>
+</div> -->
 
 <br/>
 
