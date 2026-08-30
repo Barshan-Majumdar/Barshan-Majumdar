@@ -81,6 +81,8 @@ projects:
               attendance."
   - "SevaSetu - A unified humanitarian platform that instantly connects people in crisis with verified aid, local resources,
               and emergency responders through a single, easy-to-use interface."
+  - "Crew - Next-Generation HR, Payroll & Workforce Management System. An enterprise-grade, full-stack platform designed to
+            bridge the gap between employee management, real-time tracking, and automated financial processing."
 
 hobbies: 
   - "Photoshoots 📸"
@@ -193,7 +195,7 @@ hobbies:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=99" width="100%" />
 </div> -->
 
-<br/>
+<!-- <br/>
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="35" height="35" align="center">
@@ -204,7 +206,7 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
 </div>
 
-<br/>
+<br/> -->
 <!-- <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
@@ -214,14 +216,14 @@ hobbies:
   </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/radical/3-stats.svg" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/radical/4-productive-time.svg" />
   </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
