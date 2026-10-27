@@ -195,7 +195,7 @@ hobbies:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Barshan-Majumdar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&v=99" width="100%" />
 </div> -->
 
-<!-- <br/>
+<br/>
 
 <h2 align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" alt="📊" width="35" height="35" align="center">
@@ -206,7 +206,7 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barshan-Majumdar&theme=tokyonight&hide_border=false" alt="Barshan-Majumdar GitHub Streak Stats" />
 </div>
 
-<br/> -->
+<br/>
 <!-- <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/Barshan-Majumdar/Barshan-Majumdar/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
